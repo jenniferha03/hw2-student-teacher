@@ -27,7 +27,7 @@ Spring Boot-based RESTful API designed to manage Students, Teachers, and their M
 ## Setup
 1. Clone the repo
 2. Build using Maven: `./mvnw clean install`
-3. Run: `./mvnw spring-boot:run`.
+3. Run: `./mvnw spring-boot:run`
 4. H2 Console: `http://localhost:8080/h2-console` 
    - **JDBC URL:** `jdbc:h2:mem:testdb`
    - **User:** `sa` | **Password:** (blank)
